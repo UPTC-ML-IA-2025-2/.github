@@ -3,9 +3,9 @@
   <img src="./assets/log_uptc_acred_neg.png" alt="UPTC ML-IA" width="240">
 </p>
 
-<h2 align="center">UPTC — Machine Learning e Inteligencia Artificial</h2>
+<h2 align="center">Aplicaciones de Programación, Machine Learning e Inteligencia Artificial</h2>
 <p align="center">
-  Programación, Datos, ML e IA para <b>Economía</b>, <b>Administración</b> y <b>Contaduría</b>.
+ Facultad de Ciencias Económicas, Administrativas y Contables.
 </p>
 
 ---
