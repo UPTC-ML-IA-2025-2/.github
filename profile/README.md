@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="./assets/logo.png" alt="UPTC ML-IA" width="140">
+  <img src="./assets/log_uptc_acred_neg.png" alt="UPTC ML-IA" width="140">
 </p>
 
 <h2 align="center">UPTC — Machine Learning e Inteligencia Artificial</h2>
